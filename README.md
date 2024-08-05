@@ -1,4 +1,6 @@
 # 🚭 Anti Smoking Brick Breaking Game
+## 🎥 View Demo
+Check out the live demo of the game [here](https://ritagr.github.io/anti_smoking_bricks_breaking_game/).
 
 ## 📖 Introduction
 This project is a simple brick-breaking game implemented using HTML5, CSS, and JavaScript. The game features a custom lung pattern structure. The paddle is designed to look like a cigarette, emphasizing the health risks associated with smoking.
