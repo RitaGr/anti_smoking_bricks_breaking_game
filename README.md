@@ -1,11 +1,11 @@
 # 🚭 Anti Smoking Brick Breaking Game
 
 ## 📖 Introduction
-This project is a simple brick-breaking game implemented using HTML5, CSS, and JavaScript. The game features a custom lung pattern structure, where the ball is represented as a cube that leaves a shadow trail as it moves. The paddle is designed to look like a cigarette, emphasizing the health risks associated with smoking.
+This project is a simple brick-breaking game implemented using HTML5, CSS, and JavaScript. The game features a custom lung pattern structure. The paddle is designed to look like a cigarette, emphasizing the health risks associated with smoking.
 
 ## 🌟 Features
 -  Custom lung pattern with bricks
--  Cube ball with a shadow trail effect
+-  Cube ball
 - 🚬 Paddle designed as a cigarette
 - 🔄 Collision detection and brick removal
 - 🎨 Responsive and visually appealing design
